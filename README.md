@@ -1,3 +1,6 @@
+Hi everyone, it's was just a simple TODO, with only an ADD TODO button.
+I want to give the credits to DevTuts - a YouTube channel - for this app. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
