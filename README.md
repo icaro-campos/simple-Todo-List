@@ -1,5 +1,7 @@
 Hi everyone, it's was just a simple TODO, with only an ADD TODO button.
-I want to give the credits to DevTuts - a YouTube channel - for this app. 
+I want to give the credits to DevTuts - a YouTube channel - for this app.
+
+It's a good exercise to learn React Hooks and a little bit of TypeScript.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
